@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "Lab_EFCodeFirstSps\WebApp.csproj", "{DF350E30-209B-45A8-AA38-59E45B0A8AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F1FE75DB-CF2C-4DDE-9BDA-D5DF51A5526E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF350E30-209B-45A8-AA38-59E45B0A8AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF350E30-209B-45A8-AA38-59E45B0A8AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF350E30-209B-45A8-AA38-59E45B0A8AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF350E30-209B-45A8-AA38-59E45B0A8AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FE75DB-CF2C-4DDE-9BDA-D5DF51A5526E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FE75DB-CF2C-4DDE-9BDA-D5DF51A5526E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FE75DB-CF2C-4DDE-9BDA-D5DF51A5526E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FE75DB-CF2C-4DDE-9BDA-D5DF51A5526E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB09C6B6-4B0C-49BC-B055-15C14264C288}
+	EndGlobalSection
+EndGlobal
